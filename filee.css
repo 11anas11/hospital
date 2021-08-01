@@ -1,0 +1,122 @@
+
+
+html {
+  background-color:  #97dec3
+}
+
+body{
+  font-family: Tahoma, sans-serif;
+  font-size: 93%;
+}
+
+.container{
+  background-color: #86bacf;
+max-width: 940px;
+padding-left: 30px;
+padding-right: 30px;
+ margin-left: auto;
+ margin-right: auto;
+ padding-bottom: 1px;
+
+}
+
+.content{
+  border-top: 3px solid lightgray;
+
+}
+
+.mainbox{
+width:45%;
+float: left;
+margin-right:6px;
+font-size: 110%;
+padding-top: 20px;
+}
+
+.sidebox{
+width:40%;
+float: right;
+background-color:lightgray;
+margin-top: 10px;
+padding:5px;
+border-bottom: 3px solid  lightgray;
+}
+
+.fix{
+  clear: both;
+}
+
+.site-nav li{
+list-style: none;
+float: left;
+margin-right: 5px;
+}
+
+.site-nav a{
+display: block;
+text-decoration: none;
+color: #617140;
+padding: 10px 20px;
+border: 3px solid lightgray;
+border-bottom: none;
+}
+.site-nav a:hover{
+  background-color: #e5e9dc;
+}
+
+.site-nav ul{
+  margin:0;
+  padding:0;
+}
+
+.site-nav{
+  margin-top: 20px;
+}
+
+
+
+
+h1 {
+  color: #f7ff05
+}
+
+h3{
+  color: #e60800
+}
+
+header p{
+  color:  blue
+}
+
+header h1{
+color: #617140
+
+}
+
+
+footer p{
+  color: red
+}
+
+h3.highlight
+{
+  background-color: yellow
+}
+
+footer .highlight
+{
+background-color: lightgray;
+text-align: center;
+
+}
+
+footer p{
+  text-align: center;
+}
+ footer {
+   text-align: center;
+ }
+
+footer p{
+  color:#ffffff;
+}
